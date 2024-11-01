@@ -1920,14 +1920,14 @@ input, select, textarea {
 			border: 0;
 			border-radius: 100%;
 			display: inline-block;
-			font-size: 2.5em;
-			height: 4.5em;
+			font-size: 20.5em;
+			height: 40.5em;
 			left: 0;
-			line-height: 4.5em;
+			line-height: 40.5em;
 			text-align: center;
 			text-decoration: none;
 			top: 0;
-			width: 4.5em;
+			width: 40.5em;
 		}
 
 			.icon.circle:hover {
